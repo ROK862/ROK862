@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Stella Biderman
+# Hi there 👋, my name is Robbins Jefferson Kariseb.
 I'm a software engineer and AI researcher
 
 🔭 I’m currently working on AI based training academy, [eMojo Mentorship](https://emojo.appsuites.org/).
