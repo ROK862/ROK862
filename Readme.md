@@ -10,4 +10,4 @@ Catch me on:
 
 # Studio:
 
-<img src="https://github.com/ROK862/ROK862/blob/main/273770370_5351167638244929_1830095388855464121_n.jpg" />
+<img src="https://media.licdn.com/dms/image/D4D16AQH4e_36nm7i8g/profile-displaybackgroundimage-shrink_350_1400/0/1707860305980?e=1717027200&v=beta&t=U7elENPuFjvDQ8qXXkM1U4Fu7rGZTxFk7_3cbMOyORE" />
