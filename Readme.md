@@ -9,4 +9,4 @@ Catch me on:
  [eMojo](https://emojo.appsuites.org/accounts/browse/instructors)  [Linkedin](https://www.linkedin.com/in/robbins-jefferson-kariseb-515988112/)
 
 # Studio:
-<img src="https://media.licdn.com/dms/image/D4D16AQH4e_36nm7i8g/profile-displaybackgroundimage-shrink_350_1400/0/1707860305980?e=1727308800&v=beta&t=06bX0wDr2xbDtgkDDJC7j0w-eIRBY2Jj3Ql6H5qctV0" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHObblzO5g1ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723738783697?e=1730332800&v=beta&t=X0yEsPMc_Pq9JOK5Sxccrx1Cgx0pqf3a9ds7tAo7pGM" />
